@@ -1,4 +1,6 @@
-# project_masker_delphi7-san
+# project_masker_delphi7
+Built for client assignment
+
 Project Masker Delphi7 Menggunakan Quick Report dan MS.Access
 
 Aktivasi Library Quick Report terlebih dahulu
